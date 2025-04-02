@@ -15,7 +15,7 @@ from io import BytesIO
 import tempfile
 
 # Initialize the OpenAI client with your API key
-openAI_client = OpenAI(api_key='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')
+openAI_client = OpenAI(api_key='')
 
 
 #################### SIMPLE TTS FUNCTIONS ####################
